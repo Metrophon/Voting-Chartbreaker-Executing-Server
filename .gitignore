@@ -1,0 +1,4 @@
+# PHP-typische Ignorierungen
+*.log
+vendor/
+.env
