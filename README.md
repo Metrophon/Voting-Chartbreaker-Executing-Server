@@ -1,9 +1,9 @@
 # Voting-Chartbreaker-Executing-Server
 
-Ein PHP-basierter API-Server für das Voting-Chartbreaker-System.
+Ein PHP-basierter API-Server für das Voting-Chartbreaker-System, der die Votings ausführt.
 
 ## Zweck
-
+Dieser Server führt den Chartbreaker aus und sämtliche Daten des Chartbreakers, welche nicht zum admin-bereich, welcher sich zentral unter MP ADMIN unter /mods/promo-tools/ befindet, gehören.
 Dieser Server stellt APIs zur Verfügung für das Management und die Ausführung von Voting-Chartbreaker-Funktionalitäten.
 
 ## Ordnerstruktur
